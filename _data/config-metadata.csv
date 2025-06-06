@@ -13,3 +13,6 @@ type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
+birth,Birth
+death,Death
+veteran,Veteran
